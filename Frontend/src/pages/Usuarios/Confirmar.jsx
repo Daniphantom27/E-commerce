@@ -1,3 +1,4 @@
+// import { Navigate, useNavigate } from 'react-router-dom'
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import Alerta from '../../components/Alerta';
